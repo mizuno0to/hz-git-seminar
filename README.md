@@ -6,9 +6,8 @@
 
 ## イベント情報
 
-- HZ Git勉強会
- - http://hzcolloquium.doorkeeper.jp/events/13360
-- HZ Git勉強会@関西
- - http://hzcolloquium.doorkeeper.jp/events/13361
+- [HZ Git勉強会](http://hzcolloquium.doorkeeper.jp/events/13360)
+- [HZ Git勉強会@関西](http://hzcolloquium.doorkeeper.jp/events/13361)
+
 
  
